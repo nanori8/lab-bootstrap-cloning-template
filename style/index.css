@@ -1,1 +1,19 @@
 /* Your own custom styles should be here */
+
+ul{
+    list-style-type: none;
+}
+
+.blackBackground {
+    background-color:#181818;
+}
+
+footer {
+    font-size: smaller;
+}
+
+.link-deco-none {
+    text-decoration: none;
+    color:#606060;
+}
+
